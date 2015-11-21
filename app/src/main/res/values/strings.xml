@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BusBuzz</string>
+    <string name="title_activity_maps">BusBuzz</string>
+    <string name="title_activity_splashh">splashh</string>
+    <string name="Logo">BusBuzz</string>
+    <string name="empty_string">Empty</string>
+    <string name="spacious_string">Spacious</string>
+    <string name="full_string">Full</string>
+    <string name="last_bus_string">LAST BUS LEFT:</string>
+    <string name="estimate_string">REPORT COUNTS:</string>
+</resources>
